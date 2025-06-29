@@ -4,9 +4,6 @@
 [submodule "pedidos-ms"]
 	path = pedidos-ms
 	url = git@github.com:Jefferson-Silva-Geronimo/SistemaDePagamentosMS-pedidos-ms.git
-[submodule "gateway"]
-	path = gateway
-	url = git@github.com:Jefferson-Silva-Geronimo/SistemaDePagamentosMS-Gateway.git
 [submodule "gateway-ms"]
 	path = gateway-ms
 	url = git@github.com:Jefferson-Silva-Geronimo/SistemaDePagamentosMS-Gateway.git
